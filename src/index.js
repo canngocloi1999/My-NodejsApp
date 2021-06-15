@@ -6,7 +6,7 @@ const db = require('./config/db')
 // connect to db
 db.connect();
 const app = express()
-
+// test git
 //nodemon: lắng nghe thay đổi trong sourcecode
 // morgan: log ra request
 // app.use(morgan('combined'))
